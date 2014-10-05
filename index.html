@@ -1,0 +1,27 @@
+<html>
+<head>
+	<title>Loteria</title>
+	<link rel="stylesheet" href="css/imagenes.css"></link>
+	<link rel="stylesheet" href="css/base.css" media="(max-width:1900px)"></link>
+	<link rel="stylesheet" href="css/mobilBase.css" media="(max-width:799px),(orientation:portrait)"></link>
+	<script src="js/tablero.js" type="text/javascript"></script>
+	<script src="js/cartas.js" type="text/javascript"></script>
+</head>
+<body onload="jugar();">
+	<div id="controles"></div>
+	<div id="zonaJuego">
+		<div id="tableros">
+			
+		</div>
+		<div id="mazo">
+			<div id="restante" class="carta c7" onclick="sacarCarta();">
+				
+			</div>
+			<div id="pasado" class="carta">
+				<div id="img" class="imgCarta"></div>
+				<div id="txt" class="txtCarta"></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,223 @@
+#restante
+{
+	background: url("../img/reverso.png");
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.c0
+{
+	
+}
+.c1
+{
+	-webkit-box-shadow: 1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255);
+	-moz-box-shadow:    1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255);
+	box-shadow:         1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255);
+	position: relative;
+	left: -2px;
+}
+
+.c2
+{
+	-webkit-box-shadow: 1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255);
+
+	-moz-box-shadow:    1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255);
+
+	box-shadow:         1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255);	
+	position: relative;
+	left: -4px;
+}
+
+.c3
+{
+	-webkit-box-shadow: 1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255);
+
+	-moz-box-shadow:    1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255);
+
+	box-shadow:         1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255);	
+	position: relative;
+	left: -6px;
+}
+.c4
+{
+	-webkit-box-shadow: 1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255),
+						7px 7px 1px 0px rgb(0, 0, 0),
+						8px 8px 1px 0px rgb(255, 255, 255);
+
+	-moz-box-shadow:    1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255),
+						7px 7px 1px 0px rgb(0, 0, 0),
+						8px 8px 1px 0px rgb(255, 255, 255);
+
+	box-shadow:         1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255),
+						7px 7px 1px 0px rgb(0, 0, 0),
+						8px 8px 1px 0px rgb(255, 255, 255);
+	position: relative;
+	left: -8px;
+}
+.c5
+{
+	-webkit-box-shadow: 1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255),
+						7px 7px 1px 0px rgb(0, 0, 0),
+						8px 8px 1px 0px rgb(255, 255, 255),
+						9px 9px 1px 0px rgb(0, 0, 0),
+						10px 10px 1px 0px rgb(255, 255, 255);
+	-moz-box-shadow:    1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255),
+						7px 7px 1px 0px rgb(0, 0, 0),
+						8px 8px 1px 0px rgb(255, 255, 255),
+						9px 9px 1px 0px rgb(0, 0, 0),
+						10px 10px 1px 0px rgb(255, 255, 255);
+	box-shadow:         1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255),
+						7px 7px 1px 0px rgb(0, 0, 0),
+						8px 8px 1px 0px rgb(255, 255, 255),
+						9px 9px 1px 0px rgb(0, 0, 0),
+						10px 10px 1px 0px rgb(255, 255, 255);
+	position: relative;
+	left: -10px;
+}
+
+.c6
+{
+	-webkit-box-shadow: 1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255),
+						7px 7px 1px 0px rgb(0, 0, 0),
+						8px 8px 1px 0px rgb(255, 255, 255),
+						9px 9px 1px 0px rgb(0, 0, 0),
+						10px 10px 1px 0px rgb(255, 255, 255),
+						11px 11px 1px 0px rgb(0, 0, 0),
+						12px 12px 1px 0px rgb(255, 255, 255);
+	-moz-box-shadow:    1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255),
+						7px 7px 1px 0px rgb(0, 0, 0),
+						8px 8px 1px 0px rgb(255, 255, 255),
+						9px 9px 1px 0px rgb(0, 0, 0),
+						10px 10px 1px 0px rgb(255, 255, 255),
+						11px 11px 1px 0px rgb(0, 0, 0),
+						12px 12px 1px 0px rgb(255, 255, 255);
+	box-shadow:         1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255),
+						7px 7px 1px 0px rgb(0, 0, 0),
+						8px 8px 1px 0px rgb(255, 255, 255),
+						9px 9px 1px 0px rgb(0, 0, 0),
+						10px 10px 1px 0px rgb(255, 255, 255),
+						11px 11px 1px 0px rgb(0, 0, 0),
+						12px 12px 1px 0px rgb(255, 255, 255);
+	position: relative;
+	left: -12px;
+}
+.c7
+{
+	-webkit-box-shadow: 1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255),
+						7px 7px 1px 0px rgb(0, 0, 0),
+						8px 8px 1px 0px rgb(255, 255, 255),
+						9px 9px 1px 0px rgb(0, 0, 0),
+						10px 10px 1px 0px rgb(255, 255, 255),
+						11px 11px 1px 0px rgb(0, 0, 0),
+						12px 12px 1px 0px rgb(255, 255, 255),
+						13px 13px 1px 0px rgb(0, 0, 0),
+						14px 14px 1px 0px rgb(255, 255, 255);
+	-moz-box-shadow:    1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255),
+						7px 7px 1px 0px rgb(0, 0, 0),
+						8px 8px 1px 0px rgb(255, 255, 255),
+						9px 9px 1px 0px rgb(0, 0, 0),
+						10px 10px 1px 0px rgb(255, 255, 255),
+						11px 11px 1px 0px rgb(0, 0, 0),
+						12px 12px 1px 0px rgb(255, 255, 255),
+						13px 13px 1px 0px rgb(0, 0, 0),
+						14px 14px 1px 0px rgb(255, 255, 255);
+	box-shadow:         1px 1px 1px 0px rgb(0, 0, 0),
+						2px 2px 1px 0px rgb(255, 255, 255),
+						3px 3px 1px 0px rgb(0, 0, 0),
+						4px 4px 1px 0px rgb(255, 255, 255),
+						5px 5px 1px 0px rgb(0, 0, 0),
+						6px 6px 1px 0px rgb(255, 255, 255),
+						7px 7px 1px 0px rgb(0, 0, 0),
+						8px 8px 1px 0px rgb(255, 255, 255),
+						9px 9px 1px 0px rgb(0, 0, 0),
+						10px 10px 1px 0px rgb(255, 255, 255),
+						11px 11px 1px 0px rgb(0, 0, 0),
+						12px 12px 1px 0px rgb(255, 255, 255),
+						13px 13px 1px 0px rgb(0, 0, 0),
+						14px 14px 1px 0px rgb(255, 255, 255);
+	position: relative;
+	left: -14px;
+}

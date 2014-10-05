@@ -1,0 +1,57 @@
+body
+{
+	width: 99%;
+	height: 97%;
+}
+#controles
+{
+	width: 100%;
+	height: 10%;
+	background: gray;
+}
+#zonaJuego
+{
+	width: 100%;
+	height: 90%;
+	/*background: blue;	*/
+}
+#tableros
+{
+	width: 100%;
+	height: 70%;
+	background: red;	
+}
+#mazo
+{
+	width: 100%;
+	height: 30%;
+}
+#restante
+{
+	margin-top:5%;
+	margin-bottom:5%; 
+	margin-left: 10%;
+	margin-right: 10%;
+	float:left;
+	width: 30%;
+	height: 80%;	
+}
+#pasado
+{
+	margin-top:5%;
+	margin-bottom:5%; 
+	margin-left: 10%;
+	margin-right: 10%;
+
+	float:left;
+	width: 30%;
+	height: 80%;
+	background: gray;			
+}
+
+.carta
+{
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+}
