@@ -4,20 +4,38 @@
 	<link rel="stylesheet" href="css/imagenes.css"></link>
 	<link rel="stylesheet" href="css/base.css" media="(max-width:1900px)"></link>
 	<link rel="stylesheet" href="css/mobilBase.css" media="(max-width:799px),(orientation:portrait)"></link>
+	<script src="js/chemasmas.js" type="text/javascript"></script>
+	
 	<script src="js/tablero.js" type="text/javascript"></script>
 	<script src="js/cartas.js" type="text/javascript"></script>
+	<script src="js/pruebas.js" type="text/javascript"></script>
 </head>
 <body onload="jugar();">
-	<div id="controles"></div>
+	<div id="controles">
+		<div id="boton" onclick="Vjugar();">
+			Volver a Jugar
+		</div>
+		<div id="ganador">
+			El ganador es : <div id="jGanador"></div>
+		</div>
+		<div id="contador">
+			Cartas Restantes : <div id="nContador"></div>
+		</div>	
+		<div id="Nrestante"></div>
+	</div>
 	<div id="zonaJuego">
 		<div id="tableros">
-			
+			<div id="pestanas">
+				
+			</div>
+			<div id="rejas">
+			</div>
 		</div>
 		<div id="mazo">
 			<div id="restante" class="carta c7" onclick="sacarCarta();">
 				
 			</div>
-			<div id="pasado" class="carta">
+			<div id="pasado" class="carta" >
 				<div id="img" class="imgCarta"></div>
 				<div id="txt" class="txtCarta"></div>
 			</div>
