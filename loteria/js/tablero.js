@@ -42,6 +42,30 @@ function actualizarContador()
 	var cnt=getElemento("nContador");
 	cnt.innerHTML=(35-pos);
 }
+
+//Mezcaldo Fisher
+function barajar()
+{
+	for(var i=0;i<mazo.length-1;i++)
+	{
+		var j=Math.floor(Math.random() * mazo.length - i);
+		temp=mazo[j+i];
+		mazo[j+i]=mazo[i];
+		mazo[i]=temp;
+	}
+		
+}
+function barajarG(arr)
+{
+	for(var i=0;i<arr.length-1;i++)
+	{
+		var j=Math.floor(Math.random() * arr.length - i);
+		temp=arr[j+i];
+		arr[j+i]=arr[i];
+		arr[i]=temp;
+	}
+		
+}
 function jugar()
 {
 	tabJuego=[];
@@ -54,7 +78,10 @@ function jugar()
 
 	//mezclamos el Mazo
 	//Cortesia de http://www.ngeeks.com/javascript-avanzado-desordenar-un-array/
-	mazo=mazo.sort(function(){return Math.random() - 0.5});
+	//Funcion problematica, NO genera distribuciones uniformes, el barajado puede estar viciado
+
+	//mazo=mazo.sort(function(){return Math.random() - 0.5});
+	barajar();
 	do
 	{
 		jugadores=prompt("Cuantos jugadores son:","2");
@@ -107,7 +134,8 @@ function tableros()
 		for (var j = 0 ; j < 35 ; j++)
 			mezclar.push(j);
 
-		mezclar=mezclar.sort(function(){return Math.random() - 0.5});
+		barajarG(mezclar);
+		//mezclar=mezclar.sort(function(){return Math.random() - 0.5});
 
 		for (var j = 0 ; j < x*y ; j++)
 			tj.push(mezclar[j]);
